@@ -8,7 +8,7 @@ Please complete the project with the adjustments described here. If you find you
 
 ## The Project Task
 
-
+Your project should focus on Problem #3: Image Classification with Deep Learning.
 
 ## The Project Review
 
