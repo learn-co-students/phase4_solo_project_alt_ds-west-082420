@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document has additional guidelines for the Module 4 project so that you can complete it as a solo project. The full Module 4 project is available here: **[Module 4 Final Project](https://github.com/learn-co-curriculum/dsc-mod-4-project-v2-1)**
+This document has additional guidelines for the Module 4 project so that you can complete it as a solo project. The full Module 4 project is available here: **[Module 4 Final Project](https://github.com/learn-co-students/mod_4_project-chi-sea)**
 
 Please complete the project with the adjustments described here. If you find you have additional time, please consult with your teachers about the best ways to Level Up your project.
 
