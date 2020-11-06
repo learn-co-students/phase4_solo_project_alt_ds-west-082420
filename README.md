@@ -1,8 +1,8 @@
-# Module 4 Final Project - Solo Version
+# Phase 4 Final Project - Solo Version
 
 ## Introduction
 
-This document has additional guidelines for the Module 4 project so that you can complete it as a solo project. The full Module 4 project is available here: **[Module 4 Final Project](https://github.com/learn-co-students/mod_4_project-chi-sea)**
+This document has additional guidelines for the Phase 4 project so that you can complete it as a solo project. The full Phase 4 project is available here: **[Phase 4 Final Project](https://github.com/learn-co-students/phase4_project_ds-west-082420)**
 
 Please complete the project with the adjustments described here. If you find you have additional time, please consult with your teachers about the best ways to Level Up your project.
 
