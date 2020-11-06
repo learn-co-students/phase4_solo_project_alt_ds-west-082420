@@ -8,7 +8,7 @@ Please complete the project with the adjustments described here. If you find you
 
 ## The Project Task
 
-Your project should focus on Problem #1: Time Series Modeling.
+Your project should focus on Problem #4: Natural Language Processing.
 
 ## The Project Review
 
